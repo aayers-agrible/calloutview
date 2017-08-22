@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A165CFE61F4CB5E9009F4B5F /* SMCalloutView.h in Headers */ = {isa = PBXBuildFile; fileRef = A165CFE21F4CB5E9009F4B5F /* SMCalloutView.h */; };
-		A165CFE71F4CB5E9009F4B5F /* SMClassicCalloutView.h in Headers */ = {isa = PBXBuildFile; fileRef = A165CFE31F4CB5E9009F4B5F /* SMClassicCalloutView.h */; };
+		A165CFE61F4CB5E9009F4B5F /* SMCalloutView.h in Headers */ = {isa = PBXBuildFile; fileRef = A165CFE21F4CB5E9009F4B5F /* SMCalloutView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A165CFE71F4CB5E9009F4B5F /* SMClassicCalloutView.h in Headers */ = {isa = PBXBuildFile; fileRef = A165CFE31F4CB5E9009F4B5F /* SMClassicCalloutView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A165CFE81F4CB5E9009F4B5F /* SMCalloutView.m in Sources */ = {isa = PBXBuildFile; fileRef = A165CFE41F4CB5E9009F4B5F /* SMCalloutView.m */; };
 		A165CFE91F4CB5E9009F4B5F /* SMClassicCalloutView.m in Sources */ = {isa = PBXBuildFile; fileRef = A165CFE51F4CB5E9009F4B5F /* SMClassicCalloutView.m */; };
 		A165CFEC1F4CB636009F4B5F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A165CFEB1F4CB636009F4B5F /* UIKit.framework */; };
